@@ -1,5 +1,5 @@
 # TFT Probability Calculator
-Welcome to this personal project of mine, a tool for helping me make optimal decisions when playing the game Teamfight Tactics (TFT).
+Welcome to this personal project of mine, a command line tool(for now) written in C++ for helping me make optimal decisions when playing the game Teamfight Tactics (TFT).
 
 ## What is Teamfight Tactics (TFT)?
 Teamfight Tactics is a strategy video game where you play against 7 other players. It has some similarities to poker and chess. 
